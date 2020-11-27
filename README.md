@@ -8,7 +8,7 @@ Since 2018 I've been studying and working with development and creating some per
 Code: JavaScript, VUE, Python, Django, Bash, MySQL, Docker<br />
 Working at @leadtracker<br />
 Studying at UDESC<br />
-Currently learning about general code, cybersecurity and bots<br />
+Currently learning about web development, cybersecurity and bots<br />
 
 
 ### Find me elsewhere 🌎
