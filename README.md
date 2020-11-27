@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="30px">   Hello, I'm Arthur Eduardo Good!  <img src="https://media.giphy.com/media/27wc7vMWPvvJC/giphy.gif" width="30px">
 I work as a full stack junior developer. I´m based in Santa Catarina, Brazil.
 
-Since 2018 I've been studying and working with development and creating all type of stuff.
+Since 2018 I've been studying and working with development and creating some personal and professional projects.
 
 ### What I'm focusing on 👨‍💻
 
