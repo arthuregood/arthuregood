@@ -1,16 +1,16 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="30px"> Hello, I'm Arthur Eduardo Good!<img src="https://media.giphy.com/media/27wc7vMWPvvJC/giphy.gif" width="30px">
+I work as a full stack junior developer. I´m based in Santa Catarina, Brazil.
 
-<!--
-**arthuregood/arthuregood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2018 I've been studying and working with development and creating all type of stuff.
 
-Here are some ideas to get you started:
+### What I'm focusing on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Code: JavaScript, VUE, Python, Bash, MySQL, Docker 
+Working at @leadtracker
+Studying at UDESC
+Currently learning about general code, cybersecurity and bots
+
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/arthuredugood/)
