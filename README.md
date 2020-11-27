@@ -5,7 +5,7 @@ Since 2018 I've been studying and working with development and creating some per
 
 ### What I'm focusing on 👨‍💻
 
-Code: JavaScript, VUE, Python, Bash, MySQL, Docker<br />
+Code: JavaScript, VUE, Python, Django, Bash, MySQL, Docker<br />
 Working at @leadtracker<br />
 Studying at UDESC<br />
 Currently learning about general code, cybersecurity and bots<br />
