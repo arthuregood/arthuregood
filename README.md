@@ -2,10 +2,10 @@
 I work as a full stack junior developer. I´m based in Santa Catarina, Brazil.
 
 Since 2018 I've been studying and working with development and creating some personal and professional projects.
-
+  
 ### What I'm focusing on 👨‍💻
 
-Code: JavaScript, VUE, Python, Django, Bash, MySQL, Docker<br />
+Code: JavaScript, VUE, Python, Django, PHP, Bash, MySQL, sqlite3, Docker<br />
 Working at @leadtracker<br />
 Studying at UDESC<br />
 Currently learning about web development, cybersecurity and bots<br />
