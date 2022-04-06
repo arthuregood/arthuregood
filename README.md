@@ -10,7 +10,7 @@
 
 **Main skills:**
  - [x] Python, Django and Odoo
- - [x] Javascript, Vue.JS, HTML and CSS
+ - [x] Javascript, Vue.JS, XML, HTML and CSS
  - [x] MySQL, Postgres and Grafana
  - [x] Bash Script, Routines and Services
  - [x] Cloud Hosting, AWS, DigitalOcean and Cloudflare
