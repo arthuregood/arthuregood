@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="30px">   Hello, I'm Arthur!  <img src="https://media.giphy.com/media/27wc7vMWPvvJC/giphy.gif" width="30px">
+### Hello, I'm Arthur!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/arthuredugood/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/arthuregood)
